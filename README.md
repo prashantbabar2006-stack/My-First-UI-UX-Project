@@ -23,3 +23,18 @@ Prashant Babar
 Project Description
 
 This project demonstrates my first experience in UI/UX design, including interface design and prototyping using Figma.
+
+## Project Preview
+
+This project is designed using Figma.
+
+## Project Features
+
+- User-friendly interface
+- Modern UI design
+- Easy navigation
+- Car browsing interface
+
+## Author
+
+Created by: Prashant Babar
